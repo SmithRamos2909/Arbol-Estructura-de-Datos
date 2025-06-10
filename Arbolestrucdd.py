@@ -8,7 +8,7 @@ class Nodo:
 
 def construir_arbol(lista):
     """
-    Construye un árbol binario completo (por nivel) a partir de una lista.
+    construir un árbol binario completo (por nivel) a partir de una lista.
     """
     if not lista:
         return None
